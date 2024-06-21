@@ -1,16 +1,26 @@
 <img src="https://i.ibb.co/RQ28H2p/banner.png" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
-
+## **🌺HELLO THIS DAVID RAJ BOT🌺 ニꙮCreate new Command Using Vscode ⃪⃝🙃**
 <p align="center">
-	<a href="https://nodejs.org/dist/v16.20.0">
-		<img src="https://img.shields.io/badge/Nodejs%20Support-16.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v16.x">
-	</a>
-  <img alt="size" src="https://img.shields.io/github/repo-size/ntkhang03/Goat-Bot-V2.svg?style=flat-square&label=size">
-  <img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=code%20version&prefix=v&query=%24.version&url=https://github.com/ntkhang03/Goat-Bot-V2/raw/main/package.json&style=flat-square">
-  <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=ntkhang3.Goat-Bot-V2">
-  <img alt="size" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
-</p>
+<img src="https://i.ibb.co/VTstrSy/Animation.gif" width="400px" />
+<div align="center">
+      <om/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">https://www.facebook.com/profile.php?id=61560375460072</a></h3></div>
+<p align="center">
+<img src="https://i.imgur.com/wUSfxc2.jpeg"/>
+<h1 align="center">
+My Facebook account
+</h1>
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=61560375460072" target="_blank" rel="CliffVincent"><img src="https://i.postimg.cc/RVjfM18D/Media-230515-183502.gif" width="100" /></a>
 
+## 🔴🟡🟢
+## *━❮CREDITS TO❯━𒁍● 『DAVID RAJ』*
+![SjcKH.gif](https://s13.gifyu.com/images/SjcKH.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+<br><br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
 - [📝 **Note**](#-note)
 - [🚧 **Requirement**](#-requirement)
 - [📝 **Tutorial**](#-tutorial)
@@ -25,27 +35,6 @@
 - [📸 **Screenshots**](#-screenshots)
 - [✨ **Copyright (C)**](#-copyright-c)
 - [📜 **License**](#-license)
-
-<hr>
-
-## 📝 **Note**
-- This is a messenger chat bot using a personal account, using an [unofficial api](https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md) ([Origin here](https://github.com/Schmavery/facebook-chat-api)) and this may lead to facebook account being locked due to spam or other reasons. 
-- So, I recommend using a clone account (one that you're willing to throw away at any time)
-- ***I am not responsible for any problems that may arise from using this bot.***
-
-## 🚧 **Requirement**
-- Node.js 16.x [Download](https://nodejs.org/dist/v16.20.0) | [Home](https://nodejs.org/en/download/) | [Other versions](https://nodejs.org/en/download/releases/)
-- Knowledge of **programming**, javascript, nodejs, unofficial facebook api
-
-## 📝 **Tutorial**
-Tutorial has been uploaded on YouTube
-- For mobile phone: https://www.youtube.com/watch?v=grVeZ76HlgA
-- For vps/windows: https://www.youtube.com/watch?v=uCbSYNQNEwY
-  
-Summary instructions:
-- See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/STEP_INSTALL.md)
-
-
 
 ## 💡 **How it works?**
 - The bot uses the unofficial facebook api to send and receive messages from the user.
@@ -122,7 +111,7 @@ Tutorial has been uploaded on YouTube
 - on vps/computer: https://youtu.be/uCbSYNQNEwY?t=508
 
 ## 🛠️ **How to create new commands**
-- See [here](https://github.com/ntkhang03/Goat-Bot-V2/blob/main/DOCS.md)
+- See [here](https://github.com/david-raj404/RAJ-GOAT)
 
 ## 💭 **Support**
 If you have major coding issues with this bot, please join and ask for help.
