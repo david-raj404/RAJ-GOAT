@@ -17,7 +17,7 @@
 My Facebook account
 </h1>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61560375460072" target="_blank" rel="CliffVincent"><img src="https://i.postimg.cc/RVjfM18D/Media-230515-183502.gif" width="100" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61560375460072" target="_blank" rel="CliffVincent"><img src="https://i.imgur.com/i4bb33q.jpeg" width="100" /></a>
 
 ## 🔴🟡🟢
 ## *━❮CREDITS TO❯━𒁍● 『DAVID RAJ』*
