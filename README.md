@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/2GP6Gyk.jpeg" alt="banner">
+<img src="https://i.imgur.com/hPOJUi8.jpeg" alt="banner">
 
 
 
@@ -12,7 +12,7 @@
 <div align="center">
       <om/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">https://www.facebook.com/profile.php?id=61560375460072</a></h3></div>
 <p align="center">
-<img src="https://i.imgur.com/wUSfxc2.jpeg"/>
+<img src="https://i.imgur.com/2GP6Gyk.jpeg"/>
 <h1 align="center">
 My Facebook account
 </h1>
